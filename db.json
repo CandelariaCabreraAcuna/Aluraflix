@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post 1",
+      "body": "This is the body of post 1"
+    },
+    {
+      "id": "2",
+      "title": "Post 2",
+      "body": "This is the body of post 2"
+    },
+    {
+      "id": "3",
+      "title": "Post 3",
+      "body": "This is the body of post 3"
+    },
+    {
+      "id": "2980",
+      "title": "Test Front",
+      "category": "frontend",
+      "imageUrl": "https://media.licdn.com/dms/image/D4D12AQHwXw8R3fNPHg/article-cover_image-shrink_600_2000/0/1685911522054?e=2147483647&v=beta&t=Lhid4Rr_H4krXZh-b_E7410lrH9XenkKik7KovqbdXw",
+      "videoUrl": "https://www.youtube.com/watch?v=S4Mh-z2FOEg&pp=ygUJZnJvbnQgZW5k",
+      "description": "Video frontend"
+    },
+    {
+      "id": "2fc1",
+      "title": "Test Backend",
+      "category": "",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dongee.com%2Ftutoriales%2Fbackend-que-es-como-se-aprende%2F&psig=AOvVaw1b9-PAcrflI3-pIn7GucEi&ust=1721182044760000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNifkfa8qocDFQAAAAAdAAAAABAE",
+      "videoUrl": "https://www.youtube.com/watch?v=_y9qQZXE24A&pp=ygUIYmFjayBlbmQ%3D",
+      "description": "Video backend"
+    },
+    {
+      "id": "654f",
+      "title": "Backend",
+      "category": "backend",
+      "imageUrl": "https://www.dongee.com/tutoriales/content/images/2023/01/backend.png",
+      "videoUrl": "https://www.youtube.com/watch?v=_y9qQZXE24A&pp=ygUIYmFjayBlbmQ%3D",
+      "description": "dsffdsfd"
+    },
+    {
+      "id": "3487",
+      "title": "",
+      "category": "",
+      "imageUrl": "",
+      "videoUrl": "",
+      "description": ""
+    }
+  ]
+}
